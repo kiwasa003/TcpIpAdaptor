@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpIpAdaptor", "TcpIpAdaptor\TcpIpAdaptor.csproj", "{7F9559AB-F3D5-47FE-9442-D9FE2E3D3EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpIpAdaptorCore", "TcpIpAdaptorCore\TcpIpAdaptorCore.csproj", "{24D37CF6-6460-4007-B9DA-8098FE51B84E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpIpAdaptorCoreSample", "TcpIpAdaptorCoreSample\TcpIpAdaptorCoreSample.csproj", "{1B18F032-9A0E-400F-8BA5-5CA96FEF35C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpIpAdaptorSample", "TcpIpAdaptorSample\TcpIpAdaptorSample.csproj", "{08A39BE6-07A3-45FA-B59C-4F0CE73BEA06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9559AB-F3D5-47FE-9442-D9FE2E3D3EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9559AB-F3D5-47FE-9442-D9FE2E3D3EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9559AB-F3D5-47FE-9442-D9FE2E3D3EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9559AB-F3D5-47FE-9442-D9FE2E3D3EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D37CF6-6460-4007-B9DA-8098FE51B84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D37CF6-6460-4007-B9DA-8098FE51B84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D37CF6-6460-4007-B9DA-8098FE51B84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D37CF6-6460-4007-B9DA-8098FE51B84E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B18F032-9A0E-400F-8BA5-5CA96FEF35C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B18F032-9A0E-400F-8BA5-5CA96FEF35C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B18F032-9A0E-400F-8BA5-5CA96FEF35C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B18F032-9A0E-400F-8BA5-5CA96FEF35C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A39BE6-07A3-45FA-B59C-4F0CE73BEA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A39BE6-07A3-45FA-B59C-4F0CE73BEA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A39BE6-07A3-45FA-B59C-4F0CE73BEA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A39BE6-07A3-45FA-B59C-4F0CE73BEA06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {114D99C0-FB99-498D-BD6C-72B185AFEC45}
+	EndGlobalSection
+EndGlobal

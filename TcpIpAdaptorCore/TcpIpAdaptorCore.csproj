@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\TcpIpAdaptor\ActionType.cs" Link="ActionType.cs" />
+    <Compile Include="..\TcpIpAdaptor\DataReceivedEventArgs.cs" Link="DataReceivedEventArgs.cs" />
+    <Compile Include="..\TcpIpAdaptor\SendData.cs" Link="SendData.cs" />
+    <Compile Include="..\TcpIpAdaptor\TcpClientExtensions.cs" Link="TcpClientExtensions.cs" />
+    <Compile Include="..\TcpIpAdaptor\TcpIpAdaptor.cs" Link="TcpIpAdaptor.cs" />
+  </ItemGroup>
+
+</Project>
